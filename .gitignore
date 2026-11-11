@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Local paper-trading state - not shared
+data/paper_state.json
+data/paper_trades.csv
+data/reddit_sentiment.json
+data/STOP
+
+# OS
+.DS_Store
+Thumbs.db
