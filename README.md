@@ -1,0 +1,1 @@
+# kraken-btc-paper-bot
